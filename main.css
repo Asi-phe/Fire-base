@@ -1,0 +1,30 @@
+.login-container{
+    width: 370px;
+    height: 400px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    background: #000;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    color: #fff;
+    padding: 40px 20px;
+    box-shadow: gray;
+    box-shadow: 5px 5px 10px rgb(187, 181, 181), 10px 10px 20px rgb(66, 66, 63);
+}
+
+#email{
+
+}
+#button{
+font-size: 20px;
+color: black;
+box-shadow: 5px 5px 10px rgb(187, 181, 181), 10px 10px 20px rgb(66, 66, 63);
+border: 5px solid white;
+
+}
+
+
+
+
+
